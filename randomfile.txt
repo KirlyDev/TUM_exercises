@@ -1,2 +1,8 @@
-Hello, world 
+<<<<<<< HEAD
+Hello, world
+ 
 Hi, Enkela's World
+=======
+Hello, world
+Hello, hello, hello, hello, hello  
+>>>>>>> 857f1ce1deb5eb3a49013a0de4f62eda6fd408aa
